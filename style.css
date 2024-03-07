@@ -1,0 +1,31 @@
+*{
+    border: 1px solid red;
+    margin: 10px;
+}
+body{
+    background-color: orange;
+    border: 1px solid red;
+    margin: 10px;
+    
+
+}
+
+h1{background-color:crimson;
+color: white;}
+
+img {
+    display: inline;
+    justify-content: space-between;
+    opacity: 0.6;
+}
+
+#toppart{font-size: 30px;}
+
+.text:hover{ 
+    text-transform: uppercase;
+    font-weight: bold;
+    color: green;}
+
+img:hover{
+    opacity: 1;
+}
